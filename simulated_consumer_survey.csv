@@ -1,0 +1,182 @@
+# SIMULATED DATA — FOR PORTFOLIO DEMONSTRATION ONLY. Not real survey responses.
+respondent_id,age_band,gender,skin_type,primary_skin_concern,monthly_skincare_budget,primary_purchase_channel,preferred_texture,sustainability_claim_trust_1to5,stopped_use_due_to_exaggerated_claim,willingness_to_pay_premium,preferred_packaging,top_ranked_purchase_driver
+R001,35-45,Female,Sensitive,Dullness/uneven tone,<$20/mo,Department store/Sephora-type,Lotion,4,Yes,Small premium (<10%),Tube,Sustainability
+R002,25-34,Male,Combination,Dryness/dehydration,$40-70/mo,Brand website (DTC),Lotion,3,No,Small premium (<10%),Other,Brand reputation
+R003,35-45,Female,Combination,Dryness/dehydration,$20-40/mo,In-store/pharmacy,Lotion,5,Yes,Small premium (<10%),Pump,Efficacy
+R004,18-24,Female,Oily,Dullness/uneven tone,$40-70/mo,In-store/pharmacy,Lotion,2,No,Moderate premium (10-25%),Pump,Efficacy
+R005,25-34,Female,Oily,Dryness/dehydration,$70-120/mo,In-store/pharmacy,Lotion,4,Yes,Small premium (<10%),Tube,Efficacy
+R006,25-34,Female,Combination,Signs of aging,$40-70/mo,Marketplace (Amazon etc.),Cream,2,Yes,Small premium (<10%),Tube,Efficacy
+R007,35-45,Female,Oily,Breakouts/acne,$20-40/mo,In-store/pharmacy,Cream,4,No,Small premium (<10%),Jar,Efficacy
+R008,18-24,Female,Combination,Redness/sensitivity,$20-40/mo,Marketplace (Amazon etc.),Gel,3,Yes,Small premium (<10%),Tube,Ingredient safety/transparency
+R009,25-34,Female,Oily,Large pores,$70-120/mo,In-store/pharmacy,Gel,5,No,Moderate premium (10-25%),Pump,Efficacy
+R010,18-24,Male,Combination,Dryness/dehydration,$20-40/mo,In-store/pharmacy,Gel,4,No,Moderate premium (10-25%),Pump,Ingredient safety/transparency
+R011,25-34,Female,Oily,Breakouts/acne,<$20/mo,Marketplace (Amazon etc.),Gel,1,Yes,Small premium (<10%),Tube,Sustainability
+R012,25-34,Female,Combination,Dryness/dehydration,$120+/mo,Marketplace (Amazon etc.),Lotion,1,No,Small premium (<10%),Other,Price
+R013,25-34,Female,Dry,Redness/sensitivity,$40-70/mo,Brand website (DTC),Lotion,4,Yes,Small premium (<10%),Tube,Ingredient safety/transparency
+R014,25-34,Female,Combination,Signs of aging,<$20/mo,Department store/Sephora-type,Gel,1,No,Small premium (<10%),Jar,Ingredient safety/transparency
+R015,25-34,Male,Dry,Redness/sensitivity,$20-40/mo,Department store/Sephora-type,Gel,1,Yes,Large premium (25%+),Other,Ingredient safety/transparency
+R016,35-45,Male,Combination,Breakouts/acne,$70-120/mo,In-store/pharmacy,Cream,1,No,Small premium (<10%),Other,Efficacy
+R017,18-24,Male,Oily,Dryness/dehydration,$40-70/mo,Department store/Sephora-type,Gel,2,No,Large premium (25%+),Pump,Efficacy
+R018,18-24,Female,Oily,Dullness/uneven tone,$20-40/mo,Marketplace (Amazon etc.),Lotion,3,Yes,Moderate premium (10-25%),Pump,Ingredient safety/transparency
+R019,18-24,Female,Normal,Breakouts/acne,$20-40/mo,Marketplace (Amazon etc.),Lotion,5,Yes,Large premium (25%+),Tube,Price
+R020,25-34,Female,Oily,Breakouts/acne,$120+/mo,In-store/pharmacy,Oil,4,Yes,Moderate premium (10-25%),Tube,Efficacy
+R021,35-45,Male,Oily,Redness/sensitivity,$40-70/mo,Department store/Sephora-type,Cream,2,Yes,Small premium (<10%),Pump,Brand reputation
+R022,25-34,Female,Oily,Signs of aging,$70-120/mo,Brand website (DTC),Gel,3,Yes,Moderate premium (10-25%),Tube,Efficacy
+R023,35-45,Female,Dry,Dryness/dehydration,<$20/mo,Brand website (DTC),Gel,2,Yes,Small premium (<10%),Pump,Efficacy
+R024,25-34,Female,Sensitive,Signs of aging,<$20/mo,Brand website (DTC),Gel,2,No,Small premium (<10%),Tube,Efficacy
+R025,25-34,Female,Sensitive,Dryness/dehydration,$120+/mo,Brand website (DTC),Balm,4,No,Moderate premium (10-25%),Jar,Ingredient safety/transparency
+R026,35-45,Female,Combination,Redness/sensitivity,$70-120/mo,Marketplace (Amazon etc.),Cream,3,Yes,No premium,Pump,Price
+R027,18-24,Female,Dry,Breakouts/acne,$20-40/mo,In-store/pharmacy,Gel,5,No,Small premium (<10%),Tube,Price
+R028,35-45,Female,Sensitive,Redness/sensitivity,$40-70/mo,Marketplace (Amazon etc.),Lotion,2,No,Moderate premium (10-25%),Tube,Ingredient safety/transparency
+R029,18-24,Female,Oily,Large pores,$20-40/mo,Department store/Sephora-type,Lotion,3,No,Moderate premium (10-25%),Other,Efficacy
+R030,25-34,Female,Combination,Dryness/dehydration,$40-70/mo,In-store/pharmacy,Cream,3,No,Moderate premium (10-25%),Pump,Price
+R031,35-45,Female,Oily,Dryness/dehydration,$40-70/mo,Marketplace (Amazon etc.),Lotion,3,Yes,Moderate premium (10-25%),Jar,Efficacy
+R032,25-34,Female,Oily,Dryness/dehydration,$120+/mo,Marketplace (Amazon etc.),Cream,3,No,Large premium (25%+),Jar,Price
+R033,25-34,Non-binary/Prefer not to say,Combination,Large pores,<$20/mo,Department store/Sephora-type,Lotion,1,No,Moderate premium (10-25%),Tube,Price
+R034,35-45,Female,Combination,Redness/sensitivity,$20-40/mo,Department store/Sephora-type,Lotion,1,No,Moderate premium (10-25%),Tube,Ingredient safety/transparency
+R035,18-24,Non-binary/Prefer not to say,Combination,Dullness/uneven tone,<$20/mo,Department store/Sephora-type,Gel,2,Yes,Moderate premium (10-25%),Tube,Brand reputation
+R036,25-34,Female,Oily,Dryness/dehydration,$40-70/mo,In-store/pharmacy,Gel,4,Yes,Moderate premium (10-25%),Other,Ingredient safety/transparency
+R037,25-34,Male,Oily,Dryness/dehydration,$20-40/mo,Marketplace (Amazon etc.),Lotion,3,No,No premium,Jar,Efficacy
+R038,18-24,Female,Normal,Dullness/uneven tone,<$20/mo,In-store/pharmacy,Gel,4,No,No premium,Tube,Efficacy
+R039,35-45,Female,Sensitive,Dullness/uneven tone,$40-70/mo,Brand website (DTC),Oil,2,No,Moderate premium (10-25%),Pump,Sustainability
+R040,18-24,Female,Dry,Redness/sensitivity,<$20/mo,Brand website (DTC),Gel,2,Yes,Moderate premium (10-25%),Pump,Price
+R041,25-34,Female,Combination,Breakouts/acne,<$20/mo,Marketplace (Amazon etc.),Cream,2,No,Small premium (<10%),Pump,Ingredient safety/transparency
+R042,25-34,Female,Sensitive,Redness/sensitivity,$40-70/mo,In-store/pharmacy,Cream,3,No,Moderate premium (10-25%),Other,Price
+R043,25-34,Male,Dry,Signs of aging,$40-70/mo,Brand website (DTC),Gel,4,Yes,Small premium (<10%),Tube,Efficacy
+R044,25-34,Female,Oily,Signs of aging,$70-120/mo,Marketplace (Amazon etc.),Gel,3,Yes,Small premium (<10%),Other,Sustainability
+R045,35-45,Female,Combination,Dullness/uneven tone,$20-40/mo,In-store/pharmacy,Gel,2,No,No premium,Tube,Ingredient safety/transparency
+R046,35-45,Female,Sensitive,Large pores,$20-40/mo,Marketplace (Amazon etc.),Cream,1,No,Small premium (<10%),Pump,Efficacy
+R047,18-24,Male,Oily,Dryness/dehydration,$20-40/mo,Marketplace (Amazon etc.),Cream,3,Yes,Small premium (<10%),Jar,Ingredient safety/transparency
+R048,25-34,Female,Sensitive,Dryness/dehydration,$20-40/mo,Marketplace (Amazon etc.),Gel,4,No,Moderate premium (10-25%),Jar,Price
+R049,35-45,Female,Sensitive,Breakouts/acne,$40-70/mo,Marketplace (Amazon etc.),Gel,2,No,Moderate premium (10-25%),Tube,Efficacy
+R050,18-24,Female,Normal,Redness/sensitivity,$20-40/mo,In-store/pharmacy,Gel,2,No,Moderate premium (10-25%),Other,Ingredient safety/transparency
+R051,25-34,Female,Normal,Dullness/uneven tone,$120+/mo,In-store/pharmacy,Balm,1,No,Small premium (<10%),Pump,Ingredient safety/transparency
+R052,35-45,Non-binary/Prefer not to say,Dry,Dullness/uneven tone,$70-120/mo,Marketplace (Amazon etc.),Gel,1,No,Small premium (<10%),Other,Price
+R053,35-45,Female,Sensitive,Dryness/dehydration,$40-70/mo,In-store/pharmacy,Balm,4,Yes,Small premium (<10%),Tube,Efficacy
+R054,25-34,Female,Sensitive,Signs of aging,$70-120/mo,In-store/pharmacy,Gel,2,No,Moderate premium (10-25%),Tube,Price
+R055,25-34,Female,Dry,Large pores,$40-70/mo,Brand website (DTC),Balm,2,No,Small premium (<10%),Pump,Efficacy
+R056,18-24,Male,Oily,Dryness/dehydration,$20-40/mo,In-store/pharmacy,Lotion,5,Yes,Small premium (<10%),Tube,Price
+R057,35-45,Female,Combination,Breakouts/acne,$120+/mo,Marketplace (Amazon etc.),Gel,2,Yes,No premium,Tube,Price
+R058,25-34,Female,Dry,Large pores,$70-120/mo,Marketplace (Amazon etc.),Gel,4,Yes,Small premium (<10%),Other,Price
+R059,25-34,Female,Combination,Breakouts/acne,$20-40/mo,Marketplace (Amazon etc.),Gel,4,Yes,Small premium (<10%),Jar,Ingredient safety/transparency
+R060,25-34,Female,Normal,Dullness/uneven tone,$70-120/mo,Department store/Sephora-type,Lotion,2,No,No premium,Pump,Sustainability
+R061,25-34,Female,Oily,Large pores,<$20/mo,Brand website (DTC),Gel,1,Yes,Small premium (<10%),Tube,Efficacy
+R062,18-24,Female,Oily,Dullness/uneven tone,$20-40/mo,Marketplace (Amazon etc.),Cream,2,Yes,No premium,Jar,Efficacy
+R063,25-34,Female,Dry,Redness/sensitivity,$70-120/mo,In-store/pharmacy,Gel,2,Yes,Small premium (<10%),Pump,Efficacy
+R064,25-34,Male,Oily,Redness/sensitivity,$70-120/mo,Brand website (DTC),Gel,1,No,No premium,Tube,Efficacy
+R065,18-24,Female,Dry,Redness/sensitivity,$40-70/mo,In-store/pharmacy,Gel,4,No,No premium,Jar,Brand reputation
+R066,18-24,Male,Combination,Dullness/uneven tone,$120+/mo,Marketplace (Amazon etc.),Lotion,2,No,Moderate premium (10-25%),Tube,Price
+R067,25-34,Female,Oily,Breakouts/acne,<$20/mo,Brand website (DTC),Lotion,3,No,Small premium (<10%),Other,Price
+R068,18-24,Female,Combination,Dryness/dehydration,$40-70/mo,Department store/Sephora-type,Gel,1,No,Small premium (<10%),Tube,Brand reputation
+R069,35-45,Female,Combination,Breakouts/acne,<$20/mo,In-store/pharmacy,Gel,3,No,No premium,Pump,Efficacy
+R070,35-45,Female,Combination,Redness/sensitivity,$20-40/mo,In-store/pharmacy,Lotion,3,No,Large premium (25%+),Pump,Price
+R071,18-24,Male,Combination,Breakouts/acne,<$20/mo,Department store/Sephora-type,Cream,3,Yes,Large premium (25%+),Tube,Efficacy
+R072,35-45,Male,Oily,Redness/sensitivity,$70-120/mo,Department store/Sephora-type,Cream,3,No,Moderate premium (10-25%),Jar,Price
+R073,18-24,Male,Sensitive,Signs of aging,<$20/mo,Brand website (DTC),Lotion,1,No,Small premium (<10%),Pump,Brand reputation
+R074,25-34,Female,Combination,Dullness/uneven tone,$40-70/mo,In-store/pharmacy,Oil,3,Yes,Small premium (<10%),Pump,Efficacy
+R075,18-24,Female,Dry,Large pores,$20-40/mo,Brand website (DTC),Lotion,4,Yes,No premium,Tube,Price
+R076,25-34,Female,Oily,Redness/sensitivity,$120+/mo,In-store/pharmacy,Cream,1,Yes,Small premium (<10%),Jar,Brand reputation
+R077,35-45,Non-binary/Prefer not to say,Normal,Large pores,<$20/mo,Brand website (DTC),Gel,3,Yes,Moderate premium (10-25%),Pump,Price
+R078,18-24,Female,Oily,Signs of aging,$40-70/mo,In-store/pharmacy,Gel,2,Yes,Moderate premium (10-25%),Jar,Efficacy
+R079,35-45,Female,Sensitive,Dryness/dehydration,$20-40/mo,In-store/pharmacy,Gel,2,Yes,Small premium (<10%),Pump,Brand reputation
+R080,35-45,Female,Combination,Breakouts/acne,$20-40/mo,Brand website (DTC),Oil,4,No,Small premium (<10%),Pump,Price
+R081,25-34,Female,Oily,Dryness/dehydration,$120+/mo,Marketplace (Amazon etc.),Oil,2,No,No premium,Tube,Efficacy
+R082,18-24,Male,Dry,Dullness/uneven tone,$40-70/mo,Marketplace (Amazon etc.),Cream,2,No,Moderate premium (10-25%),Jar,Price
+R083,18-24,Male,Dry,Dryness/dehydration,$20-40/mo,In-store/pharmacy,Lotion,3,No,No premium,Other,Price
+R084,25-34,Female,Normal,Breakouts/acne,<$20/mo,Marketplace (Amazon etc.),Gel,1,No,Small premium (<10%),Other,Efficacy
+R085,25-34,Female,Combination,Dullness/uneven tone,$40-70/mo,Department store/Sephora-type,Cream,2,No,Moderate premium (10-25%),Tube,Price
+R086,35-45,Female,Normal,Redness/sensitivity,$40-70/mo,Marketplace (Amazon etc.),Oil,2,No,Small premium (<10%),Pump,Ingredient safety/transparency
+R087,25-34,Male,Dry,Dullness/uneven tone,$20-40/mo,Marketplace (Amazon etc.),Cream,1,Yes,Moderate premium (10-25%),Pump,Ingredient safety/transparency
+R088,18-24,Female,Oily,Signs of aging,$70-120/mo,Brand website (DTC),Lotion,1,Yes,No premium,Tube,Ingredient safety/transparency
+R089,35-45,Female,Combination,Dullness/uneven tone,$120+/mo,In-store/pharmacy,Gel,3,Yes,Large premium (25%+),Pump,Ingredient safety/transparency
+R090,18-24,Female,Sensitive,Dullness/uneven tone,$40-70/mo,Department store/Sephora-type,Balm,2,No,Small premium (<10%),Pump,Efficacy
+R091,18-24,Male,Normal,Signs of aging,$120+/mo,In-store/pharmacy,Lotion,4,No,Small premium (<10%),Tube,Ingredient safety/transparency
+R092,25-34,Female,Combination,Breakouts/acne,$20-40/mo,In-store/pharmacy,Balm,2,Yes,Small premium (<10%),Jar,Ingredient safety/transparency
+R093,18-24,Female,Oily,Breakouts/acne,$120+/mo,Brand website (DTC),Gel,2,No,Large premium (25%+),Other,Efficacy
+R094,18-24,Male,Dry,Signs of aging,$40-70/mo,Brand website (DTC),Balm,2,Yes,Small premium (<10%),Pump,Ingredient safety/transparency
+R095,25-34,Non-binary/Prefer not to say,Normal,Redness/sensitivity,<$20/mo,In-store/pharmacy,Oil,2,Yes,Small premium (<10%),Tube,Ingredient safety/transparency
+R096,25-34,Male,Sensitive,Signs of aging,$40-70/mo,Marketplace (Amazon etc.),Lotion,4,No,Moderate premium (10-25%),Tube,Brand reputation
+R097,18-24,Female,Combination,Dryness/dehydration,<$20/mo,Brand website (DTC),Cream,4,Yes,Moderate premium (10-25%),Jar,Efficacy
+R098,18-24,Male,Sensitive,Redness/sensitivity,$70-120/mo,Brand website (DTC),Cream,3,Yes,Moderate premium (10-25%),Pump,Ingredient safety/transparency
+R099,25-34,Female,Oily,Dryness/dehydration,$70-120/mo,Brand website (DTC),Gel,2,Yes,Moderate premium (10-25%),Pump,Sustainability
+R100,18-24,Female,Combination,Breakouts/acne,$70-120/mo,Department store/Sephora-type,Balm,2,Yes,Moderate premium (10-25%),Tube,Ingredient safety/transparency
+R101,25-34,Female,Sensitive,Dullness/uneven tone,<$20/mo,Brand website (DTC),Cream,3,Yes,Small premium (<10%),Jar,Ingredient safety/transparency
+R102,25-34,Female,Dry,Redness/sensitivity,$20-40/mo,Marketplace (Amazon etc.),Lotion,1,Yes,No premium,Other,Ingredient safety/transparency
+R103,18-24,Male,Combination,Redness/sensitivity,$120+/mo,Brand website (DTC),Gel,3,Yes,Moderate premium (10-25%),Tube,Efficacy
+R104,18-24,Female,Oily,Dryness/dehydration,$70-120/mo,Marketplace (Amazon etc.),Cream,1,Yes,Small premium (<10%),Pump,Efficacy
+R105,35-45,Male,Oily,Dryness/dehydration,<$20/mo,In-store/pharmacy,Gel,4,No,Moderate premium (10-25%),Pump,Sustainability
+R106,18-24,Female,Dry,Large pores,$40-70/mo,In-store/pharmacy,Gel,5,No,Small premium (<10%),Other,Efficacy
+R107,25-34,Female,Oily,Breakouts/acne,$20-40/mo,Brand website (DTC),Balm,3,Yes,Small premium (<10%),Pump,Ingredient safety/transparency
+R108,35-45,Male,Dry,Breakouts/acne,$40-70/mo,Marketplace (Amazon etc.),Cream,3,No,Small premium (<10%),Tube,Efficacy
+R109,18-24,Female,Combination,Breakouts/acne,$20-40/mo,Marketplace (Amazon etc.),Lotion,2,No,Large premium (25%+),Pump,Ingredient safety/transparency
+R110,18-24,Male,Dry,Large pores,$40-70/mo,Brand website (DTC),Gel,3,No,No premium,Jar,Brand reputation
+R111,25-34,Female,Oily,Signs of aging,$20-40/mo,Department store/Sephora-type,Cream,3,Yes,No premium,Jar,Price
+R112,25-34,Male,Normal,Signs of aging,$20-40/mo,In-store/pharmacy,Balm,2,Yes,Moderate premium (10-25%),Pump,Price
+R113,35-45,Female,Dry,Breakouts/acne,$40-70/mo,Brand website (DTC),Lotion,4,Yes,Small premium (<10%),Jar,Efficacy
+R114,25-34,Female,Combination,Dryness/dehydration,$40-70/mo,Marketplace (Amazon etc.),Lotion,1,Yes,Small premium (<10%),Tube,Efficacy
+R115,18-24,Female,Oily,Large pores,$40-70/mo,In-store/pharmacy,Oil,1,No,Moderate premium (10-25%),Pump,Price
+R116,25-34,Female,Combination,Large pores,$120+/mo,Brand website (DTC),Lotion,2,No,No premium,Other,Ingredient safety/transparency
+R117,18-24,Female,Sensitive,Dryness/dehydration,$40-70/mo,Department store/Sephora-type,Cream,2,Yes,No premium,Other,Efficacy
+R118,18-24,Female,Normal,Dryness/dehydration,$70-120/mo,In-store/pharmacy,Balm,5,No,Large premium (25%+),Tube,Ingredient safety/transparency
+R119,25-34,Female,Sensitive,Large pores,$40-70/mo,Marketplace (Amazon etc.),Cream,2,Yes,Small premium (<10%),Tube,Efficacy
+R120,35-45,Female,Normal,Dullness/uneven tone,<$20/mo,Brand website (DTC),Gel,5,Yes,Small premium (<10%),Other,Sustainability
+R121,18-24,Female,Oily,Dryness/dehydration,$20-40/mo,Marketplace (Amazon etc.),Balm,3,No,No premium,Jar,Ingredient safety/transparency
+R122,35-45,Male,Dry,Dryness/dehydration,$20-40/mo,Marketplace (Amazon etc.),Oil,2,No,Small premium (<10%),Tube,Efficacy
+R123,25-34,Female,Dry,Dryness/dehydration,$70-120/mo,Brand website (DTC),Oil,2,Yes,Small premium (<10%),Pump,Price
+R124,25-34,Non-binary/Prefer not to say,Combination,Redness/sensitivity,$40-70/mo,Brand website (DTC),Cream,2,No,No premium,Other,Price
+R125,35-45,Female,Oily,Signs of aging,$40-70/mo,In-store/pharmacy,Cream,3,No,Moderate premium (10-25%),Tube,Ingredient safety/transparency
+R126,25-34,Male,Dry,Breakouts/acne,$70-120/mo,Marketplace (Amazon etc.),Lotion,3,Yes,Moderate premium (10-25%),Tube,Efficacy
+R127,25-34,Female,Sensitive,Breakouts/acne,<$20/mo,Department store/Sephora-type,Gel,2,Yes,Small premium (<10%),Jar,Ingredient safety/transparency
+R128,25-34,Female,Dry,Redness/sensitivity,$20-40/mo,Marketplace (Amazon etc.),Gel,1,No,Moderate premium (10-25%),Tube,Price
+R129,35-45,Female,Sensitive,Redness/sensitivity,$70-120/mo,Brand website (DTC),Cream,2,Yes,Small premium (<10%),Tube,Ingredient safety/transparency
+R130,25-34,Female,Oily,Redness/sensitivity,$20-40/mo,Marketplace (Amazon etc.),Gel,4,No,Small premium (<10%),Pump,Brand reputation
+R131,35-45,Female,Sensitive,Large pores,$70-120/mo,Marketplace (Amazon etc.),Gel,1,No,Small premium (<10%),Pump,Price
+R132,25-34,Male,Oily,Dryness/dehydration,$70-120/mo,In-store/pharmacy,Oil,4,No,Small premium (<10%),Pump,Efficacy
+R133,25-34,Male,Dry,Redness/sensitivity,$20-40/mo,Brand website (DTC),Gel,1,No,Small premium (<10%),Jar,Ingredient safety/transparency
+R134,18-24,Female,Sensitive,Breakouts/acne,$120+/mo,Brand website (DTC),Lotion,4,Yes,Small premium (<10%),Other,Efficacy
+R135,25-34,Female,Dry,Signs of aging,$70-120/mo,Marketplace (Amazon etc.),Balm,2,Yes,Small premium (<10%),Other,Efficacy
+R136,18-24,Female,Sensitive,Dryness/dehydration,$20-40/mo,In-store/pharmacy,Cream,2,Yes,Small premium (<10%),Pump,Brand reputation
+R137,25-34,Female,Normal,Breakouts/acne,$40-70/mo,Department store/Sephora-type,Gel,3,No,No premium,Pump,Efficacy
+R138,18-24,Female,Dry,Signs of aging,$70-120/mo,In-store/pharmacy,Gel,2,Yes,No premium,Other,Efficacy
+R139,18-24,Male,Dry,Dryness/dehydration,$20-40/mo,In-store/pharmacy,Lotion,2,No,Moderate premium (10-25%),Jar,Efficacy
+R140,18-24,Male,Dry,Dullness/uneven tone,$70-120/mo,Brand website (DTC),Lotion,4,No,Small premium (<10%),Jar,Price
+R141,25-34,Male,Sensitive,Breakouts/acne,<$20/mo,Brand website (DTC),Cream,3,No,Small premium (<10%),Jar,Brand reputation
+R142,18-24,Female,Combination,Redness/sensitivity,$20-40/mo,In-store/pharmacy,Oil,3,No,Large premium (25%+),Tube,Ingredient safety/transparency
+R143,25-34,Non-binary/Prefer not to say,Oily,Breakouts/acne,$70-120/mo,Marketplace (Amazon etc.),Lotion,2,No,Moderate premium (10-25%),Tube,Ingredient safety/transparency
+R144,25-34,Female,Combination,Signs of aging,<$20/mo,Brand website (DTC),Lotion,3,No,No premium,Tube,Brand reputation
+R145,18-24,Female,Normal,Dryness/dehydration,$70-120/mo,Brand website (DTC),Balm,3,No,No premium,Pump,Ingredient safety/transparency
+R146,18-24,Female,Oily,Large pores,$70-120/mo,In-store/pharmacy,Lotion,3,No,Small premium (<10%),Pump,Efficacy
+R147,35-45,Male,Dry,Dullness/uneven tone,$20-40/mo,Department store/Sephora-type,Balm,4,Yes,No premium,Tube,Efficacy
+R148,18-24,Female,Normal,Dryness/dehydration,$20-40/mo,In-store/pharmacy,Cream,4,No,Moderate premium (10-25%),Pump,Price
+R149,25-34,Female,Dry,Redness/sensitivity,$20-40/mo,In-store/pharmacy,Gel,1,Yes,Moderate premium (10-25%),Tube,Ingredient safety/transparency
+R150,35-45,Female,Sensitive,Breakouts/acne,$20-40/mo,In-store/pharmacy,Balm,2,No,Small premium (<10%),Pump,Ingredient safety/transparency
+R151,25-34,Female,Oily,Dullness/uneven tone,$40-70/mo,In-store/pharmacy,Gel,2,Yes,No premium,Tube,Price
+R152,25-34,Female,Sensitive,Redness/sensitivity,$70-120/mo,Marketplace (Amazon etc.),Cream,3,No,Small premium (<10%),Pump,Ingredient safety/transparency
+R153,25-34,Female,Combination,Redness/sensitivity,$120+/mo,Marketplace (Amazon etc.),Cream,5,Yes,No premium,Tube,Efficacy
+R154,18-24,Female,Sensitive,Dullness/uneven tone,<$20/mo,Marketplace (Amazon etc.),Gel,5,Yes,Moderate premium (10-25%),Tube,Ingredient safety/transparency
+R155,25-34,Female,Oily,Large pores,$40-70/mo,In-store/pharmacy,Balm,5,Yes,Small premium (<10%),Tube,Efficacy
+R156,25-34,Non-binary/Prefer not to say,Normal,Redness/sensitivity,$40-70/mo,Department store/Sephora-type,Oil,2,No,Moderate premium (10-25%),Tube,Price
+R157,35-45,Non-binary/Prefer not to say,Normal,Signs of aging,$20-40/mo,Marketplace (Amazon etc.),Cream,3,No,Moderate premium (10-25%),Pump,Ingredient safety/transparency
+R158,25-34,Female,Oily,Dryness/dehydration,$70-120/mo,Marketplace (Amazon etc.),Gel,3,No,No premium,Tube,Efficacy
+R159,25-34,Female,Oily,Dryness/dehydration,$40-70/mo,Brand website (DTC),Balm,1,No,Small premium (<10%),Pump,Efficacy
+R160,35-45,Male,Oily,Dryness/dehydration,$70-120/mo,Marketplace (Amazon etc.),Gel,2,No,Moderate premium (10-25%),Pump,Sustainability
+R161,25-34,Female,Combination,Breakouts/acne,$20-40/mo,Brand website (DTC),Cream,3,Yes,Small premium (<10%),Pump,Ingredient safety/transparency
+R162,35-45,Male,Combination,Dryness/dehydration,$40-70/mo,In-store/pharmacy,Gel,1,Yes,Small premium (<10%),Pump,Efficacy
+R163,35-45,Male,Oily,Large pores,<$20/mo,Department store/Sephora-type,Oil,1,No,Large premium (25%+),Other,Sustainability
+R164,25-34,Female,Sensitive,Dullness/uneven tone,$40-70/mo,Marketplace (Amazon etc.),Cream,1,No,No premium,Jar,Brand reputation
+R165,25-34,Female,Dry,Large pores,$70-120/mo,Marketplace (Amazon etc.),Gel,2,Yes,Large premium (25%+),Jar,Efficacy
+R166,35-45,Female,Sensitive,Breakouts/acne,$40-70/mo,Department store/Sephora-type,Gel,3,No,No premium,Tube,Ingredient safety/transparency
+R167,25-34,Female,Combination,Signs of aging,$20-40/mo,Marketplace (Amazon etc.),Balm,3,No,Small premium (<10%),Other,Ingredient safety/transparency
+R168,18-24,Male,Combination,Dryness/dehydration,$20-40/mo,In-store/pharmacy,Gel,2,Yes,Small premium (<10%),Pump,Price
+R169,18-24,Female,Combination,Breakouts/acne,$40-70/mo,Brand website (DTC),Gel,2,Yes,Small premium (<10%),Jar,Efficacy
+R170,25-34,Female,Oily,Redness/sensitivity,$20-40/mo,Marketplace (Amazon etc.),Gel,4,No,No premium,Pump,Ingredient safety/transparency
+R171,25-34,Male,Combination,Large pores,$120+/mo,Brand website (DTC),Cream,3,Yes,Small premium (<10%),Other,Efficacy
+R172,25-34,Male,Dry,Redness/sensitivity,$120+/mo,Marketplace (Amazon etc.),Gel,1,No,Small premium (<10%),Pump,Efficacy
+R173,25-34,Male,Combination,Large pores,$20-40/mo,Marketplace (Amazon etc.),Balm,2,Yes,Moderate premium (10-25%),Pump,Price
+R174,35-45,Female,Dry,Dryness/dehydration,$20-40/mo,Brand website (DTC),Lotion,2,No,Small premium (<10%),Tube,Efficacy
+R175,25-34,Female,Dry,Signs of aging,$40-70/mo,Brand website (DTC),Balm,2,Yes,Small premium (<10%),Tube,Efficacy
+R176,25-34,Female,Sensitive,Large pores,$40-70/mo,In-store/pharmacy,Lotion,5,Yes,No premium,Pump,Price
+R177,18-24,Female,Oily,Large pores,$20-40/mo,Brand website (DTC),Gel,2,Yes,No premium,Tube,Efficacy
+R178,25-34,Female,Dry,Breakouts/acne,<$20/mo,Brand website (DTC),Gel,3,No,Large premium (25%+),Pump,Price
+R179,25-34,Female,Sensitive,Signs of aging,$70-120/mo,Marketplace (Amazon etc.),Lotion,4,Yes,Large premium (25%+),Tube,Sustainability
+R180,35-45,Female,Combination,Dryness/dehydration,$70-120/mo,In-store/pharmacy,Cream,4,Yes,Small premium (<10%),Pump,Efficacy

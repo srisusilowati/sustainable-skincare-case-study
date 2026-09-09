@@ -151,5 +151,5 @@ sustainable-skincare-case-study/
 
 This case study was independently developed as a demonstration of end-to-end business analyst capability — from problem framing through to strategic recommendation — using an early-stage business context as a realistic anchor while protecting that business's confidential information.
 
-**Author:** `[INSERT YOUR NAME]`
-**Contact:** `[INSERT EMAIL / LINKEDIN]`
+**Author:** `[Sri Susilowati]`
+**Contact:** `[srisusilowati2585@gmail.com]`
